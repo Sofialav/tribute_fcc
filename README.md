@@ -1,6 +1,5 @@
-# tribute_fcc
-FCC Tribute page
-(a project for FCC Responsive Web Design)
+# TRIBUTE PAGE (FCC)
+Project for Free Code Camp Responsive Web Design Certification
 
-View on codepen:
+## View on codepen
 https://codepen.io/sofialav/pen/LYEgjEb
